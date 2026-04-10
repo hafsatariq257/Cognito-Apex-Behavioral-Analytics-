@@ -1,8 +1,8 @@
-Since we are going for that Executive look, your README should be as clean and sharp as the app's interface.
+
 
 Here is a professional, high-impact README for your GitHub:
 
-🧠 Cognito Engine
+🧠 ***Cognito Engine***
 Cognito Engine | Strategic behavioral intelligence and predictive inventory mapping for enterprise-scale transactional data.
 
 🏛️ Project Overview
